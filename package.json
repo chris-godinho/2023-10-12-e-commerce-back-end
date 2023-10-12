@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Back-end structure for an e-commerce application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git@github.com:chris-godinho/request-installment.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chris Godinho",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
