@@ -6,7 +6,7 @@ This is the back-end structure for an e-commerce application.
 
 ![A render of the app in execution](/public/assets/images/readme_render.jpg)
 
-A video of the app in use can be seen at <https://youtu.be/CK__lK0eDww>.
+A video of the app in use can be seen at <https://drive.google.com/file/d/1fepE0Sq3MbHQEncw6m5MEHk-953Fx8Ct/view>.
 
 ## Installation
 
